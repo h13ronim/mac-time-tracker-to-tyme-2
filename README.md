@@ -4,7 +4,7 @@ Application to help migrate time tracking data from [Mac Time Tracker](https://g
 
 ## Installation
 
-Build from source:
+[Download the lastest binary release](https://github.com/doubledrones/mac-time-tracker-to-tyme-2/releases) or build from source:
 
 ```bash
 brew install crystal
